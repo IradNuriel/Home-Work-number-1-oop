@@ -1,1 +1,1 @@
-Irad Nuriel, irad9731@gmail.com, 324220458
+Irad Nuriel solution for hw1 in OOP.
